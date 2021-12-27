@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cartrack</string>
+    <string name="movies">movies</string>
+    <string name="series">series</string>
+    <string name="choose_your_search_type">Choose your search type:</string>
+    <string name="search">Search</string>
+    <string name="enter_title_here">title</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="item">Item</string>
+</resources>
